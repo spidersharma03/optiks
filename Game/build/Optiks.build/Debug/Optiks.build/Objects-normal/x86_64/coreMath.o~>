@@ -1,0 +1,21 @@
+In file included from /Users/prasantha/Desktop/Optiks/coreMath.cpp:1:
+/Users/prasantha/Desktop/Optiks/coreMath.h:14:1: warning: "M_PI" redefined
+In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h:28,
+                 from /Users/prasantha/Desktop/Optiks/coreMath.h:6,
+                 from /Users/prasantha/Desktop/Optiks/coreMath.cpp:1:
+/Developer/SDKs/MacOSX10.6.sdk/usr/include/architecture/i386/math.h:536:1: warning: this is the location of the previous definition
+In file included from /Users/prasantha/Desktop/Optiks/coreMath.cpp:1:
+/Users/prasantha/Desktop/Optiks/coreMath.h:16:1: warning: "M_PI_2" redefined
+In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h:28,
+                 from /Users/prasantha/Desktop/Optiks/coreMath.h:6,
+                 from /Users/prasantha/Desktop/Optiks/coreMath.cpp:1:
+/Developer/SDKs/MacOSX10.6.sdk/usr/include/architecture/i386/math.h:537:1: warning: this is the location of the previous definition
+In file included from /Users/prasantha/Desktop/Optiks/coreMath.cpp:1:
+/Users/prasantha/Desktop/Optiks/coreMath.h:20:1: warning: "M_PI_4" redefined
+In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h:28,
+                 from /Users/prasantha/Desktop/Optiks/coreMath.h:6,
+                 from /Users/prasantha/Desktop/Optiks/coreMath.cpp:1:
+/Developer/SDKs/MacOSX10.6.sdk/usr/include/architecture/i386/math.h:538:1: warning: this is the location of the previous definition
+/Users/prasantha/Desktop/Optiks/coreMath.cpp:120: error: no 'spider3d::sf32 spider3d::core::Vector3::lengthSq()' member function declared in class 'spider3d::core::Vector3'
+/Users/prasantha/Desktop/Optiks/coreMath.cpp: In member function 'spider3d::core::Vector3& spider3d::core::Matrix4f::getTranslation()':
+/Users/prasantha/Desktop/Optiks/coreMath.cpp:326: warning: reference to local variable 'v' returned
